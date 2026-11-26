@@ -1,6 +1,8 @@
 # Coorg Myco Ventures
 
-The website for Coorg Myco Ventures, an oyster mushroom grower in Kushalnagar, Kodagu. Customers can explore the daily harvest, order fresh mushrooms for local delivery through WhatsApp, and find nutrition information and five easy recipes.
+The website for Coorg Myco Ventures, an oyster mushroom grower in Kushalnagar, Kodagu. Customers can explore the daily harvest, order fresh mushrooms through WhatsApp, and find nutrition information and five easy recipes.
+
+**Delivery is available only in Kushalnagar, Kodagu, Karnataka.**
 
 [Live website](https://coorg-myco-ventures.vercel.app/) · [Instagram](https://www.instagram.com/coorgmycoventures/)
 
